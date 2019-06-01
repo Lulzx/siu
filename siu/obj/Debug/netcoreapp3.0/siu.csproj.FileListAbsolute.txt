@@ -1,0 +1,12 @@
+/home/lulzx/RiderProjects/siu/siu/bin/Debug/netcoreapp3.0/siu
+/home/lulzx/RiderProjects/siu/siu/bin/Debug/netcoreapp3.0/siu.deps.json
+/home/lulzx/RiderProjects/siu/siu/bin/Debug/netcoreapp3.0/siu.runtimeconfig.json
+/home/lulzx/RiderProjects/siu/siu/bin/Debug/netcoreapp3.0/siu.runtimeconfig.dev.json
+/home/lulzx/RiderProjects/siu/siu/bin/Debug/netcoreapp3.0/siu.dll
+/home/lulzx/RiderProjects/siu/siu/bin/Debug/netcoreapp3.0/siu.pdb
+/home/lulzx/RiderProjects/siu/siu/obj/Debug/netcoreapp3.0/siu.csprojAssemblyReference.cache
+/home/lulzx/RiderProjects/siu/siu/obj/Debug/netcoreapp3.0/siu.csproj.CoreCompileInputs.cache
+/home/lulzx/RiderProjects/siu/siu/obj/Debug/netcoreapp3.0/siu.AssemblyInfoInputs.cache
+/home/lulzx/RiderProjects/siu/siu/obj/Debug/netcoreapp3.0/siu.AssemblyInfo.cs
+/home/lulzx/RiderProjects/siu/siu/obj/Debug/netcoreapp3.0/siu.dll
+/home/lulzx/RiderProjects/siu/siu/obj/Debug/netcoreapp3.0/siu.pdb
